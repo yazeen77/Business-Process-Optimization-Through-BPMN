@@ -149,25 +149,6 @@ Parallel execution and automation reduce unnecessary waiting between departments
 
 ---
 
-## Repository Structure
-
-```text
-Business-Process-Optimization-Through-BPMN/
-│
-├── README.md
-│
-├── Sources/
-│   ├── Business-Activity-Model.vsdx
-│   └── As-Is-and-To-Be.vsdx
-│
-└── Screenshots/
-    ├── Business-Activity-Model.png
-    ├── As-Is-Process.png
-    └── To-Be-Process.png
-```
-
----
-
 ## Key Takeaway
 
 This project demonstrates how business process modeling can be used not only to document an existing workflow, but also to identify inefficiencies and design a more efficient future-state process.
